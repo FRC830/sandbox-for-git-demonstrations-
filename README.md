@@ -3,3 +3,5 @@ stuff
 things
 people
 places
+bozos
+buttheads
